@@ -21,8 +21,8 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1732465451,
-    "IconUrl": "",
-    "DownloadLinkInstall": "",
-    "DownloadLinkTesting": "",
-    "DownloadLinkUpdate": ""
+    "IconUrl": "https://raw.githubusercontent.com/MirrorMaru/MirrorMaruXIV/refs/heads/main/plogons/images/PapersPlease.png",
+    "DownloadLinkInstall": "https://github.com/MirrorMaru/MirrorMaruXIV/raw/refs/heads/main/plogons/PapersPlease.zip",
+    "DownloadLinkTesting": "https://github.com/MirrorMaru/MirrorMaruXIV/raw/refs/heads/main/plogons/PapersPlease.zip",
+    "DownloadLinkUpdate": "https://github.com/MirrorMaru/MirrorMaruXIV/raw/refs/heads/main/plogons/PapersPlease.zip"
 }
