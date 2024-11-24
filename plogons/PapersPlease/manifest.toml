@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/MirrorMaru/Papers-Please-"
-commit = "f85948a7f7d629bda37be6d671c0e37b17991f25"
-owners = ["MirrorMaru"]
-changelog = '''
-Such changes. wow
-'''

@@ -1,0 +1,28 @@
+{
+    "Author": "MirrorMaru",
+    "Name": "Papers please !",
+    "Description": "Check PF members logs and clears.",
+    "InternalName": "PapersPlease",
+    "AssemblyVersion": "0.0.0.1",
+    "Changelog": "Very EARLY alpha version - Use at your own risk !",
+    "RepoUrl": "https://github.com/MirrorMaru/Papers-Please-",
+    "ApplicableVersion":"any",
+    "Tags": [
+        "fflogs",
+        "logs",
+        "tomestone.gg",
+        "tomestone",
+        "clears",
+        "kills",
+        "parse",
+        "parses"
+    ],
+    "DalamudApiLevel": 11,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1732465451,
+    "IconUrl": "",
+    "DownloadLinkInstall": "",
+    "DownloadLinkTesting": "",
+    "DownloadLinkUpdate": ""
+}
