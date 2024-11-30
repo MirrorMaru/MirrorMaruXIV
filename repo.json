@@ -4,7 +4,7 @@
     "Name": "Papers please !",
     "Description": "Check PF members logs and clears.",
     "InternalName": "xiv.raid",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
     "Changelog": "Very EARLY alpha version - Use at your own risk !",
     "RepoUrl": "https://github.com/MirrorMaru/Papers-Please-",
     "ApplicableVersion":"any",
